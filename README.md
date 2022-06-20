@@ -31,3 +31,17 @@ Variables are conatiners that hold a value
 2. can only conatain numbers, letters, and underscores (_) `my name = "Tait" ` --> NOT ALLOWED
 3. If more than one word, use camelCase or underscores to seperate words
    `myFirstName` or `my_first_name`
+
+   ##Cocatenation
+   `+` Adding strings together, appending (add to end)
+
+   `"Hello" + "World" = "Hello World"
+
+   ## Type Cast
+   Forcing a data type on a value
+
+   ### to force an integer into a string
+   `str(variableName)`
+
+   ### To force a string into an integer
+   `int(variableName)`
